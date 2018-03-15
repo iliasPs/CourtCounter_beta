@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="point1">+1P</string>
+    <string name="point2">+2P</string>
+    <string name="point3">+3P</string>
+    <string name="rebound">+1 Reb</string>
+    <string name="assist">+1 Assist</string>
+    <string name="foul">+1 Foul</string>
+    <string name="steal">+1 Steal</string>
+</resources>
